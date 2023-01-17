@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+}
+
+.home_title {
+    text-align: center;
+    color: rgb(143, 143, 185);
+}
+
+#welcome_text {
+    text-align: center;
+    font-size: 50px;
+}
