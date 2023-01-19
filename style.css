@@ -11,3 +11,15 @@ body {
     text-align: center;
     font-size: 50px;
 }
+
+.nav {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+}
+
+.nav-buttons {
+    color: black;
+    height: 30px;
+    padding: 5px;
+}
